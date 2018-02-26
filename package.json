@@ -1,0 +1,7 @@
+{
+  "name": "semantic",
+  "version": "0.0.1",
+  "dependencies": {
+    "rdflib": "^0.16.3"
+  }
+}
